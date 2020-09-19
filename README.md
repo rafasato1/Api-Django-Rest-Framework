@@ -1,1 +1,4 @@
 # Api-Django-Rest-Framework
+
+First of all, you will need python, django, django rest framework innstalled on your computer/virtual machine.
+1st step after installing the programs above you will create a folder to place your project, after this open your cmd, access you folder and type virtualenv "project name" to create your project( on windowns), now you will need create your project typing django-admin startproject "project name", after this you can acces the prject folder and copy paste the content that we have here, open with some editor to identation issues that you can come across, correct them and save, after this in your cmd you in the project folder you will type python manage.py runserver to run our django server and on your navigator type 127.0.0.1:8000 to see your django server and 127.0.0.1:8000/"app name" to acess your api.
